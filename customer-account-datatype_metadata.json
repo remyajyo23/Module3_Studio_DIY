@@ -1,0 +1,16 @@
+[{
+	"ID": 1,
+    "name": "Remya",
+    "accounttype": "business",
+    "address":  "12/1,4th cross,avenue road,sarjapur,bangalore",
+    "airmiles": "12",
+    "creationDate": "18/01/2024"
+},{
+    "ID": 2,
+    "name": "Remya1",
+    "accounttype": "personal",
+    "address":  "13/1,4th cross,avenue road,sarjapur,bangalore",
+    "airmiles": "14",
+    "creationDate": "18/01/2024"
+	}
+]
